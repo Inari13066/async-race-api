@@ -13,6 +13,7 @@
     "license": "MIT",
     "devDependencies": {
         "json-server": "^0.16.3",
+        "svg-inline-loader": "^0.8.2",
         "webpack-cli": "^5.1.4",
         "webpack-dev-server": "^4.15.1"
     },
