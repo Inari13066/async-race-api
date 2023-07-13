@@ -1,6 +1,25 @@
+body {
+    background-color: #363636;
+}
+
 .create-update-form {
     display: flex;
     width: fit-content;
     gap: 1em;
     margin: 1em;
+}
+
+.main-btn-container {
+    display: flex;
+    width: fit-content;
+    gap: 1em;
+    margin: 1em;
+}
+
+.main-container {
+    color: #fff;
+    gap: 1em;
+    margin: 3em 1em 1em 1em;
+    display: flex;
+    flex-direction: column;
 }
