@@ -22,6 +22,26 @@ const db = {
             color: "#ef3c40",
             id: 4,
         },
+        {
+            name: "Tesla",
+            color: "#e6e6fa",
+            id: 5,
+        },
+        {
+            name: "BMW",
+            color: "#fede00",
+            id: 6,
+        },
+        {
+            name: "Mersedes",
+            color: "#6c779f",
+            id: 7,
+        },
+        {
+            name: "Ford",
+            color: "#ef3c40",
+            id: 8,
+        },
     ],
     winners: [
         {
